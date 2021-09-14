@@ -1,0 +1,9 @@
+{
+	"name": "lxbADFtest",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e0be5707-b3be-4785-add5-5936c32bb5de",
+		"tenantId": "709b0de1-d107-4c5c-b779-0f9fe2b0248d"
+	}
+}
